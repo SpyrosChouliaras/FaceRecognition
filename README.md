@@ -8,4 +8,9 @@ live recognition.
 
 - Face_EyesCascade.ipynb is a light code for instantly detecting faces and eyes using cv2.CascadeClassifiers.
 
-Special Thanks to Rodrigo Agundez and PyData.
+
+
+**Notice * we are using Haarcascades.xml files**
+
+
+**Special Thanks to Rodrigo Agundez and PyData.**
